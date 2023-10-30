@@ -4,7 +4,6 @@ print("** ** **        **      **     **   **")
 print("***** ******    **      **     **   **")
 print("** ** **        **      **     **   **")
 print("** ** ** ****   ******  ******  ******")
-
 #1.3
 ten_hang = "Sữa hộp Vinamilk"
 so_luong = 5
@@ -13,7 +12,6 @@ tien_phai_tra = so_luong * don_gia
 print("Tên hàng:", ten_hang)
 print("Số lượng:", so_luong)
 print("Tiền phải trả:", tien_phai_tra)
-
 #1.4
 import math
 a = float(input("Nhập độ dài cạnh a: "))
